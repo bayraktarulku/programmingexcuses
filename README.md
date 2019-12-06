@@ -19,3 +19,8 @@ Original excuses from [programmingexcuses.com][1]
 
 
 [1]: http://programmingexcuses.com
+
+
+-------------------------------------------------------------------------------
+                    So what are your favorite excuse?
+-------------------------------------------------------------------------------
