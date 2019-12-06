@@ -13,7 +13,7 @@ Output a random excuse.
 python3 run.py
 ```
 
-###### inspired project
+##### Inspired project
 Original excuses from [programmingexcuses.com][1]
 
 
