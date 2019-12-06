@@ -1,7 +1,7 @@
 #### programmingexcuses
-```
-Now you have excuses.
-```
+
+##### Now you have excuses.
+
 
 > Doesn't your project work?
 > Don't worry. What you have to do is very simple.
@@ -13,7 +13,7 @@ Now you have excuses.
 python3 run.py
 ```
 
-###### inspired project
+##### Inspired project
 Original excuses from [programmingexcuses.com][1]
 
 
