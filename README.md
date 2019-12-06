@@ -14,6 +14,12 @@ Output a random excuse.
 python3 run.py
 ```
 
+if you need more than one excuse, just specify a parameter ´´´--number <int>´´´
+```
+python3 run.py --number 2
+```
+
+
 ##### Inspired project
 Original excuses from [programmingexcuses.com][1]
 

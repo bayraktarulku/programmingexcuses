@@ -120,4 +120,7 @@ PROGRAMMINGEXCUSES = ['Actually, that\'s a feature',
                       'You must have done something wrong',
                       'You must have the wrong version',
                       'You\'re doing it wrong',
-                      'Your browser must be caching the old content']
+                      'Your browser must be caching the old content'
+                    ]
+
+# print(PROGRAMMINGEXCUSES)
