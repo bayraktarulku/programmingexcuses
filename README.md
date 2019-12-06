@@ -14,6 +14,5 @@ python3 run.py
 ```
 
 ###### inspired project
-```
-http://programmingexcuses.com/
+* Original excuses from [programmingexcuses.com] (https://programmingexcuses.com)
 ```
