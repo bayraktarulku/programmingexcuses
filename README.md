@@ -28,5 +28,5 @@ Original excuses from [programmingexcuses.com][1]
 
 
 -------------------------------------------------------------------------------
-                                              So what are your favorite excuse?
+                                   So what are your favorite excuse?
 -------------------------------------------------------------------------------
