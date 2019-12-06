@@ -11,3 +11,8 @@ Now you have excuses.
 ```
 python3 run.py
 ```
+
+###### inspired project
+```
+http://programmingexcuses.com/
+```
