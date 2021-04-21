@@ -9,6 +9,7 @@ Excuse! But don't you think anything. then this repository is for you.
 Output a random excuse.
 ```
 
+
 ##### Usage
 ```
 python3 run.py
